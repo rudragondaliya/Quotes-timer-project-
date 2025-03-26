@@ -10,7 +10,7 @@ Quotes Timer is a web-based application that dynamically displays **motivational
 - **Modern UI** with smooth transitions.
 
 ## 🚀 Live Demo
-🔗 [Live Demo](https://quotes-timer-project-git-main-rudra-gondaliyas-projects.vercel.app/)
+🔗 (https://quotes-timer-project-git-main-rudra-gondaliyas-projects.vercel.app/)
 
 ## 🛠️ Technologies Used
 - **HTML5** - Structure of the webpage
@@ -28,7 +28,7 @@ This project is **open-source** and available under the **MIT License**.
 
 ## 👤 Author
 Developed by **Your Name**
-- GitHub: [Your Profile](https://github.com/rudragondaliya)
+- GitHub: (https://github.com/rudragondaliya)
 - Email: gondaliyarudra61@gmail.com
 
 ---
