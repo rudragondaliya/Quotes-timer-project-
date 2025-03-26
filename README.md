@@ -18,25 +18,10 @@ Quotes Timer is a web-based application that dynamically displays **motivational
 - **JavaScript (ES6)** - Functionality and interactivity
 - **Boxicons** - Icons for styling
 
-## 📥 Installation & Setup
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/quotes-timer.git
-   ```
-2. **Navigate to the project folder:**
-   ```sh
-   cd quotes-timer
-   ```
-3. **Open `index.html` in your browser.**
-
 ## 📝 Usage Guide
 - **Quote Section:** A new quote appears every **10 seconds**.
 - **Testimonial Slider:** Automatically transitions every **5 seconds**.
 - **Pause Timer:** Implement a feature to pause/resume the timer if needed.
-
-## 📷 Screenshots
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
 
 ## 📜 License
 This project is **open-source** and available under the **MIT License**.
